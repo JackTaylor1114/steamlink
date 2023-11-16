@@ -67,7 +67,7 @@ WantedBy=default.target
 ```
 sudo systemctl enable steamlink.service
 ```
-##Weitere Infos
+## Weitere Infos
 1. https://blog.iancolwell.ca/steamlink-aarch64
 2. https://beebom.com/how-overclock-raspberry-pi-4/
 3. https://steamcommunity.com/app/353380/discussions/6/1743392433376142673/
