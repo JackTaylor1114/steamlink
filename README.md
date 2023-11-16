@@ -26,6 +26,14 @@ gpu_freq=650
 # Grafikspeicher
 gpu_mem=512
 
+# HDMI CEA für TV
+hdmi_group=1
+
+# Modus 16 = 1080p60
+hdmi_mode=16
+
+# Modus wählen
+hdmi_drive=2
 ```
 3. Boot in Nicht-GUI-Umgebung aktivieren
 ```
